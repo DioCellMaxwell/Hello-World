@@ -6,4 +6,5 @@
 =======
 	echo "edit1";
 >>>>>>> edit1
+	echo "VScode";
 ?>
